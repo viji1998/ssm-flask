@@ -1,0 +1,13 @@
+{
+    "version_scheme": "post-release",
+    "changelog": "CHANGELOG.md",
+    "branches": [
+      "main",
+      "dev",
+      {
+        "name": "release/*",
+        "prerelease": true
+      }
+    ]
+  }
+  
