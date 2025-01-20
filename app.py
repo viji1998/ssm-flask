@@ -54,7 +54,7 @@
 # if __name__ == '__main__':
 #     app.run(debug=True)
 
-
+#yolo11 flask api
 from flask import Flask, request, jsonify
 import cv2
 import numpy as np
